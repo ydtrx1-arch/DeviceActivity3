@@ -10,5 +10,10 @@
     "key": "key2",
     "expiresAt": "2025-06-15",
     "allowOffline": false
-  }
+  },
+{
+    "id": "f6ba6c1c63df672a",
+    "key": "key3",
+    "expiresAt": "2025-10-30",
+    "allowOffline": false
 ]
