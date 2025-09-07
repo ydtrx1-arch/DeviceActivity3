@@ -1,20 +1,9 @@
-[
-  {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-  {
-    "id": "ali456",
-    "key": "key2",
-    "expiresAt": "2025-06-15",
-    "allowOffline": false
-  },
-{
-    "id": "f6ba6c1c63df672a",
-    "key": "key3",
-    "expiresAt": "2025-10-30",
-    "allowOffline": false
-  }
-]
+
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/EpicModsChannel"
+}
